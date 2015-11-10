@@ -1,2 +1,2 @@
 # tajay
-Tajay's repository
+Tajay's first repository
